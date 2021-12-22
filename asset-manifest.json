@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notes-frontend/static/css/main.ada27674.css",
+    "main.js": "/notes-frontend/static/js/main.54f4edd2.js",
+    "index.html": "/notes-frontend/index.html",
+    "main.ada27674.css.map": "/notes-frontend/static/css/main.ada27674.css.map",
+    "main.54f4edd2.js.map": "/notes-frontend/static/js/main.54f4edd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ada27674.css",
+    "static/js/main.54f4edd2.js"
+  ]
+}
